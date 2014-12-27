@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+alt+/"], "command": "vi_comment" }
+]
+
